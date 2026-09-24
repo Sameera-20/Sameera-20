@@ -1,252 +1,130 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaik+Sameera;Full-Stack+Developer;AI%2FML+Enthusiast;Final-Year+CSE+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sai+Sameera;Full-Stack+Developer;AI%2FML+Enthusiast;250%2B+DSA+Problems+Solved!" />
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/CGPA-9.4%2F10-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CodeVita-Global%20Rank%208750-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Problems%20Solved-250%2B-blueviolet?style=for-the-badge" />
+### Final Year CSE Student | Full-Stack Developer | AI/ML Enthusiast
 
-<br/><br/>
+Learning **Spring Boot, System Design, Docker & LLM Integration**
 
-<a href="https://github.com/Sameera-20">
-  <img src="https://img.shields.io/badge/GitHub-Sameera--20-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/sameera20">
-  <img src="https://img.shields.io/badge/LinkedIn-Sameera20-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:shaiksameera1233@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
-</a>
+Solved **250+ DSA Problems**
+
+**Global Rank 8750 — TCS CodeVita Season 13** (top 8.75% of 100,000+ participants)
+
+Looking for **Full-Stack / Backend Developer Opportunities**
+
+<p>
+<a href="https://www.linkedin.com/in/sameera20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shaiksameera1233@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Sameera-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Sameera-20&label=Profile%20Views&color=0e75b6&style=flat" />
 
-</div>
+---
 
-<br/>
+## 📊 GitHub Statistics 📊
 
-## 👩‍💻 About Me
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera-20&theme=react&border_radius=10" />
+</p>
 
-I'm a **final-year Computer Science Engineering student** (CGPA **9.4/10**) at **RVR & JC College of Engineering**, building practical software across the full stack and exploring where AI meets real products.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sameera-20&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-20&hide=html&layout=compact&theme=react&border_radius=10" />
+</p>
 
-```text
-const sameera = {
-    role: "Full-Stack Developer & AI/ML Enthusiast",
-    education: "B.Tech CSE, RVR & JC College of Engineering (2023–2027)",
-    rank: "Global Rank 8750 — TCS CodeVita Season 13 (top 8.75% of 100,000+)",
-    problemsSolved: "250+",
-    internships: 3,
-    currentFocus: ["System Design", "Spring Boot", "Docker", "LLM Integration"],
-    funFact: "I turn coffee and stack traces into working products ☕"
-};
-```
+## 🏆 GitHub Trophies 🏆
 
-- 🏆 **Global Rank 8750** — TCS CodeVita Season 13, out of 100,000+ participants worldwide
-- 🧩 **250+ coding problems** solved across arrays, strings, DP, recursion, and graphs
-- 💼 **3 internships** in Full-Stack, Web, and Python development
-- 🥇 NPTEL **Gold Badge (95%)** in Human-Computer Interaction
-- 🚀 Currently deepening **System Design, Spring Boot, Docker & LLM integration**
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sameera-20&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 
-<br/>
+## 🛠 Languages, Frameworks & Tools 🛠
 
-## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,mongodb,mysql" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,firebase" />
+</p>
 
-<div align="center">
+## 🏅 Achievements 🏅
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+### 🥇 Competitive Programming
 
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,angular" />
+- Solved **250+ DSA problems** — arrays, strings, hashing, recursion, stacks, queues, linked lists
+- Strong problem-solving foundation in **Python & Java**
+- Consistent focus on Data Structures & Algorithms
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+### 🏆 Recognition
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+- **Global Rank 8750** — TCS CodeVita Season 13 (top 8.75% of 100,000+ participants)
+- **NPTEL Gold Badge** — Human-Computer Interaction, 95%
+- **9.4/10 CGPA** — B.Tech CSE, RVR & JC College of Engineering
+- Certified in **Prompt Engineering (IBM)**, **Responsive Web Design (freeCodeCamp)**, **Data Engineering (AICTE)**, **Data Analytics (Tata Forage)**
 
-</div>
+## 🚀 Featured Projects 🚀
 
-<details>
-<summary><b>🧠 Core CS & AI/ML (click to expand)</b></summary>
-<br/>
+### 🤖 GTMicro — AI-Assisted Microservice Architecture
+- BERT-based NLP for candidate microservice identification
+- Cosine similarity + hierarchical clustering
+- LLM-based extension for architecture & Spring Boot code generation
 
-| Area | Skills |
-|---|---|
-| **Data Structures & Algorithms** | Arrays, Strings, Hashing, Searching, Sorting, Recursion, Stacks, Queues, Linked Lists |
-| **Core CS Fundamentals** | OOP, Operating Systems, Computer Networks, DBMS, SDLC |
-| **Data & AI/ML** | Python, Pandas, Matplotlib, NLP, BERT, LLMs |
-| **Methodologies** | Agile, Scrum |
+### 📝 Collab Docs — Real-Time Collaborative Editor
+- React, Node.js, Express.js, MongoDB
+- JWT authentication & role-based access
+- Real-time sync, cursor tracking & typing indicators via Socket.IO
 
-</details>
+### 🌦️ Weather Forecast App
+- React.js, Node.js, Express.js
+- OpenWeatherMap API integration
+- City & coordinate-based search, deployed with env-secured credentials
 
-<br/>
+### 📊 Google Play Store Data Analysis
+- Python, Pandas, Matplotlib
+- Exploratory analysis of 10,000+ applications
+- Cleaned data + visualized rating/install/pricing trends
 
-## 🚀 Featured Projects
+### 🎯 Interactive Quiz Application
+- JavaScript, HTML5, CSS3
+- Multiple categories with dynamic question loading
+- Real-time scoring and optimized frontend logic
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 💼 Experience 💼
 
-### 🤖 [GTMicro](https://github.com/Sameera-20)
-**AI-Assisted Microservice Architecture**
+### ☕ Java Full Stack Developer Intern — AICTE
+- Integrated frontend, backend & database modules across 3+ full-stack applications
+- Worked with Java and SQL
 
-NLP-based approach for identifying candidate microservices from requirements, extended with LLM-based architecture and Spring Boot code generation.
+### 🌐 Web Development Intern — SkillDzire
+- Built and enhanced 2 responsive web interfaces
+- Ensured cross-browser and cross-device compatibility
 
-`Python` `BERT` `NLP` `Clustering` `LLM` `Spring Boot`
+### 🐍 Python Development Intern — Cognifyz Technologies
+- Automated repetitive Python scripts
+- Improved execution efficiency by 20%
 
-</td>
-<td width="50%" valign="top">
+## 📈 Activity Graph 📈
 
-### 📝 [Collab Docs](https://github.com/Sameera-20)
-**Real-Time Collaborative Editor**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera-20&theme=react&hide_border=true" />
+</p>
 
-Google Docs–style platform with JWT auth, role-based access, live cursor tracking, and multi-user sync via Socket.IO.
+## 🐍 Contribution Snake 🐍
 
-`React` `Node.js` `MongoDB` `Socket.IO` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ [Weather Forecast App](https://github.com/Sameera-20)
-**Full-Stack Weather Application**
-
-Real-time weather via OpenWeatherMap API with city/coordinate search, responsive UI, and a decoupled, deployed architecture.
-
-`React.js` `Node.js` `Express.js` `OpenWeatherMap API`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Play Store Data Analysis](https://github.com/Sameera-20)
-**Exploratory Data Analysis**
-
-Analyzed 10,000+ apps to surface rating, install, and pricing trends; cleaned messy data and visualized insights.
-
-`Python` `Pandas` `Matplotlib`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍⚕️ AI Virtual Patient Simulation
-**Healthcare AI Concept**
-
-Models how a virtual patient may respond to drugs in clinical-trial scenarios, predicting outcomes and risk levels.
-
-`AI Agents` `LLMs` `Healthcare AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 [Interactive Quiz App](https://github.com/Sameera-20)
-**Browser-Based Quiz Platform**
-
-Multiple categories, dynamic question loading, real-time scoring, and optimized frontend logic.
-
-`JavaScript` `HTML5` `CSS3`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💼 Experience
-
-<table>
-<tr>
-<td><b>☕ Java Full Stack Developer Intern</b><br/><i>AICTE</i></td>
-<td align="right"><i>Oct 2025 – Dec 2025</i></td>
-</tr>
-<tr><td colspan="2">Integrated frontend, backend, and database modules across 3+ full-stack applications using Java and SQL.</td></tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td><b>🌐 Web Development Intern</b><br/><i>SkillDzire</i></td>
-<td align="right"><i>May 2025 – Jun 2025</i></td>
-</tr>
-<tr><td colspan="2">Built and enhanced 2 responsive web interfaces, ensuring cross-browser and cross-device compatibility.</td></tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td><b>🐍 Python Development Intern</b><br/><i>Cognifyz Technologies</i></td>
-<td align="right"><i>Oct 2024 – Nov 2024</i></td>
-</tr>
-<tr><td colspan="2">Automated repetitive Python workflows, improving execution efficiency by 20%.</td></tr>
-</table>
-
-<br/>
-
-## 🏆 Achievements & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Achievements**
-- 🏆 Global Rank **8750**, TCS CodeVita Season 13
-- 🧩 **250+** coding problems solved
-- 🥇 NPTEL Gold Badge — **95%**, Human-Computer Interaction
-- 🎓 **9.4/10** CGPA
-
-</td>
-<td width="50%" valign="top">
-
-**Certifications**
-- 🤖 Prompt Engineering — IBM Cognitive Class
-- 🌐 Responsive Web Design — freeCodeCamp
-- 📊 Data Engineering — AICTE
-- 📈 Data Analytics — Tata Forage
-- 🧠 Human-Computer Interaction — NPTEL
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sameera-20/Sameera-20/output/github-contribution-grid-snake.svg" />
+</p>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sameera-20&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-20&layout=compact&hide_border=true&theme=tokyonight" />
+### ⭐ Thanks for visiting my profile! ⭐
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera-20&hide_border=true&theme=tokyonight" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera-20&hide_border=true&theme=tokyo-night" />
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to **full-stack**, **backend**, and **AI/ML** opportunities — let's build something great together.
-
-<a href="https://www.linkedin.com/in/sameera20">
-<img src="https://img.shields.io/badge/LinkedIn-Sameera20-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:shaiksameera1233@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shaiksameera1233%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://github.com/Sameera-20">
-<img src="https://img.shields.io/badge/GitHub-Sameera--20-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br/><br/>
-
-### 💡 *"Build. Learn. Solve. Repeat."*
-
-⭐ **If you find my work interesting, explore my repositories and feel free to star them!**
+### 💻 Learn • Build • Solve • Repeat 🚀
 
 </div>
