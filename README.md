@@ -316,16 +316,16 @@ Placed in the **top 8.75% among 100,000+ participants worldwide**.
 # 📚 Currently Learning
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  ☕ Spring Boot                               │
-│  🐳 Docker                                   │
-│  🏗️ System Design                            │
-│  🤖 AI / LLM Integration                     │
-│  🧠 Advanced Data Structures & Algorithms     │
-│  🔌 Backend & REST API Development            │
-│                                               │
-└───────────────────────────────────────────────┘
+
+                                             
+  ☕ Spring Boot                              
+  🐳 Docker                                   
+  🏗️ System Design                            
+  🤖 AI / LLM Integration                     
+  🧠 Advanced Data Structures & Algorithms    
+  🔌 Backend & REST API Development           
+                                               
+
 ```
 
 ---
