@@ -1,28 +1,41 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sai+Sameera;Full-Stack+Developer;AI%2FML+Enthusiast;250%2B+DSA+Problems+Solved!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shaik+Sameera;Full-Stack+Developer;AI%2FML+Enthusiast;250%2B+DSA+Problems+Solved!" />
 
 </div>
 
-### Final Year CSE Student | Full-Stack Developer | AI/ML Enthusiast
+### 🎓 Final Year CSE Student @ RVR & JC College of Engineering | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
-Learning **Spring Boot, System Design, Docker & LLM Integration**
+📚 Learning **Spring Boot, System Design, Docker & LLM Integration**
 
-Solved **250+ DSA Problems**
+🧩 Solved **250+ DSA problems**
 
-**Global Rank 8750 — TCS CodeVita Season 13** (top 8.75% of 100,000+ participants)
+🏆 **Global Rank 8750 — TCS CodeVita Season 13** (top 8.75% among 100,000+ participants worldwide)
 
-Looking for **Full-Stack / Backend Developer Opportunities**
+🥇 **NPTEL Gold Badge — 95%**, Human-Computer Interaction
+
+🎯 **9.4/10 CGPA**
+
+💼 Open to **Full-Stack / Backend Developer** opportunities
 
 <p>
 <a href="https://www.linkedin.com/in/sameera20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shaiksameera1233@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Sameera-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sameera2008/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Sameera-20&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
+
+## ⚡ Coding Profile ⚡
+
+<p align="center">
+<a href="https://leetcode.com/u/sameera2008/">
+<img src="https://leetcode-stats-card.vercel.app/?username=sameera2008&theme=dark&border_radius=10" />
+</a>
+</p>
 
 ## 📊 GitHub Statistics 📊
 
@@ -57,9 +70,9 @@ Looking for **Full-Stack / Backend Developer Opportunities**
 
 ### 🥇 Competitive Programming
 
-- Solved **250+ DSA problems** — arrays, strings, hashing, recursion, stacks, queues, linked lists
+- Solved **250+ DSA problems** — strong across Arrays, Strings, Hash Tables, Recursion, Trees, Dynamic Programming
+- Active on **LeetCode** ([@sameera2008](https://leetcode.com/u/sameera2008/))
 - Strong problem-solving foundation in **Python & Java**
-- Consistent focus on Data Structures & Algorithms
 
 ### 🏆 Recognition
 
@@ -71,24 +84,28 @@ Looking for **Full-Stack / Backend Developer Opportunities**
 ## 🚀 Featured Projects 🚀
 
 ### 🤖 GTMicro — AI-Assisted Microservice Architecture
-- BERT-based NLP for candidate microservice identification
-- Cosine similarity + hierarchical clustering
+- BERT-based NLP for candidate microservice identification from requirements
+- Cosine similarity + hierarchical clustering for semantic grouping
 - LLM-based extension for architecture & Spring Boot code generation
 
 ### 📝 Collab Docs — Real-Time Collaborative Editor
-- React, Node.js, Express.js, MongoDB
-- JWT authentication & role-based access
-- Real-time sync, cursor tracking & typing indicators via Socket.IO
+- React, Node.js, Express.js, MongoDB, Socket.IO
+- JWT authentication & role-based access control
+- Real-time sync, live cursor tracking & typing indicators
 
 ### 🌦️ Weather Forecast App
-- React.js, Node.js, Express.js
-- OpenWeatherMap API integration
-- City & coordinate-based search, deployed with env-secured credentials
+- React.js, Node.js, Express.js, OpenWeatherMap API
+- City & coordinate-based search with responsive UI
+- Deployed with a decoupled frontend–backend architecture
 
 ### 📊 Google Play Store Data Analysis
 - Python, Pandas, Matplotlib
 - Exploratory analysis of 10,000+ applications
-- Cleaned data + visualized rating/install/pricing trends
+- Cleaned inconsistent data & visualized rating/install/pricing trends
+
+### 🧑‍⚕️ AI Virtual Patient Simulation
+- AI Agents, LLMs, Healthcare AI
+- Models predicted patient response to drugs in clinical-trial scenarios
 
 ### 🎯 Interactive Quiz Application
 - JavaScript, HTML5, CSS3
@@ -98,14 +115,17 @@ Looking for **Full-Stack / Backend Developer Opportunities**
 ## 💼 Experience 💼
 
 ### ☕ Java Full Stack Developer Intern — AICTE
+*Oct 2025 – Dec 2025*
 - Integrated frontend, backend & database modules across 3+ full-stack applications
 - Worked with Java and SQL
 
 ### 🌐 Web Development Intern — SkillDzire
+*May 2025 – Jun 2025*
 - Built and enhanced 2 responsive web interfaces
 - Ensured cross-browser and cross-device compatibility
 
 ### 🐍 Python Development Intern — Cognifyz Technologies
+*Oct 2024 – Nov 2024*
 - Automated repetitive Python scripts
 - Improved execution efficiency by 20%
 
