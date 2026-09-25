@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A0DAD&height=200&section=header&text=Shaik%20Sameera&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%26%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,100:6A0DAD&amp;height=200&amp;section=header&amp;text=Shaik%20Sameera&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%26%20AI%2FML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=50&duration=4000&lines=Building+clean%2C+scalable+full-stack+apps;Exploring+Data+Engineering+%26+ML;Prompt+Engineering+%2B+LLM-powered+systems;250%2B+DSA+problems+and+counting+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=26&amp;pause=1000&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;duration=4000&amp;lines=Building+clean%2C+scalable+full-stack+apps;Exploring+Data+Engineering+%26+ML;Prompt+Engineering+%2B+LLM-powered+systems;250%2B+DSA+problems+and+counting+%F0%9F%9A%80" />
 
 <br/>
 
@@ -13,14 +13,14 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sameera20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shaiksameera1233@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Sameera-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/sameera2008/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/sameera20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:shaiksameera1233@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/Sameera-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://leetcode.com/u/sameera2008/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sameera-20&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Sameera-20&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" />
 
 </div>
 
@@ -38,11 +38,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a **final-year CSE student** at **RVR & JC College of Engineering**, building end-to-end software — from React frontends to Python data pipelines to AI-powered systems. I like problems that force me to think about both the data and the architecture.
+I'm a **final-year CSE student** at **RVR &amp; JC College of Engineering**, building end-to-end software — from React frontends to Python data pipelines to AI-powered systems. I like problems that force me to think about both the data and the architecture.
 
 ```yaml
-role: Full-Stack Developer & Data/AI Enthusiast
-education: B.Tech CSE, RVR & JC College of Engineering (2023 – 2027)
+role: Full-Stack Developer &amp; Data/AI Enthusiast
+education: B.Tech CSE, RVR &amp; JC College of Engineering (2023 – 2027)
 highlight: Global Rank 8750, TCS CodeVita Season 13 — top 8.75% of 100,000+
 currently_learning: [Data Engineering, Prompt Engineering, LLM Integration, System Design]
 open_to: [Full-Stack Developer, Data Engineer, AI/ML Roles, SDE Internship/New Grad]
@@ -54,7 +54,7 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML Roles, SDE Internship/New G
 
 | Degree | Institution | Year | Score |
 |---|---|:---:|:---:|
-| B.Tech, CSE | RVR & JC College of Engineering, Guntur | 2023 – 2027 | 9.4/10 CGPA |
+| B.Tech, CSE | RVR &amp; JC College of Engineering, Guntur | 2023 – 2027 | 9.4/10 CGPA |
 | Intermediate (MPC) | St. Ann's Junior College for Girls | 2021 – 2023 | 98.5% |
 | SSC | Success High School | 2021 | 99.3% |
 
@@ -66,25 +66,25 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML Roles, SDE Internship/New G
 
 <p align="center">
 <a href="https://leetcode.com/u/sameera2008/">
-<img src="https://leetcode-stats-card.vercel.app/?username=sameera2008&theme=dark&border_radius=10" />
+<img src="https://leetcode-stats-card.vercel.app/?username=sameera2008&amp;theme=dark&amp;border_radius=10" />
 </a>
 </p>
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera-20&theme=react&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera-20&amp;theme=react&amp;border_radius=10" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sameera-20&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-20&hide=html&layout=compact&theme=react&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sameera-20&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-20&amp;hide=html&amp;layout=compact&amp;theme=react&amp;border_radius=10" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sameera-20&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sameera-20&amp;theme=algolia&amp;no-frame=true&amp;row=1&amp;column=7" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -99,27 +99,27 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML Roles, SDE Internship/New G
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,mongodb,mysql" />
 </p>
 
-<p align="center"><b>Tools & Platforms</b></p>
+<p align="center"><b>Tools &amp; Platforms</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,firebase" />
 </p>
 
 <details>
-<summary><b>🧠 Core CS & AI/ML Skills (click to expand)</b></summary>
+<summary><b>🧠 Core CS &amp; AI/ML Skills (click to expand)</b></summary>
 <br/>
 
 | Area | Skills |
 |---|---|
-| **Data Structures & Algorithms** | Arrays, Strings, Hashing, Searching, Sorting, Recursion, Stacks, Queues, Linked Lists |
+| **Data Structures &amp; Algorithms** | Arrays, Strings, Hashing, Searching, Sorting, Recursion, Stacks, Queues, Linked Lists |
 | **Core CS Fundamentals** | OOP, Operating Systems, Computer Networks, DBMS, SDLC |
-| **Data & AI/ML** | Python, Pandas, Matplotlib, NLP, BERT, LLMs, Prompt Engineering |
+| **Data &amp; AI/ML** | Python, Pandas, Matplotlib, NLP, BERT, LLMs, Prompt Engineering |
 | **Methodologies** | Agile, Scrum |
 
 </details>
 
 <br/>
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements &amp; Certifications
 
 <table>
 <tr>
@@ -128,7 +128,7 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML Roles, SDE Internship/New G
 ### 🥇 Competitive Programming
 - **250+ DSA problems** solved — Arrays, Strings, Hash Tables, Recursion, Trees, DP
 - Active on **[LeetCode](https://leetcode.com/u/sameera2008/)**
-- Strong foundation in **Python & Java**
+- Strong foundation in **Python &amp; Java**
 
 ### 🏆 Recognition
 - **Global Rank 8750** — TCS CodeVita Season 13 (top 8.75% of 100,000+)
@@ -192,7 +192,7 @@ Real-time weather via OpenWeatherMap API, city/coordinate search, responsive UI,
 ### 📊 Play Store Data Analysis
 **Exploratory Data Analysis**
 
-Analyzed 10,000+ apps for rating, install & pricing trends; cleaned messy data and visualized insights.
+Analyzed 10,000+ apps for rating, install &amp; pricing trends; cleaned messy data and visualized insights.
 
 `Python` `Pandas` `Matplotlib`
 
@@ -244,7 +244,7 @@ Multiple categories, dynamic question loading, real-time scoring, and optimized 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Data%20Engineering-003366?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLM%20Integration-purple?style=for-the-badge" />
 
@@ -255,7 +255,7 @@ Multiple categories, dynamic question loading, real-time scoring, and optimized 
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera-20&theme=react&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameera-20&amp;theme=react&amp;hide_border=true" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -270,10 +270,10 @@ Multiple categories, dynamic question loading, real-time scoring, and optimized 
 
 ### 🤝 Let's Connect — Open to Full-Stack / Data / AI-ML Roles
 
-<a href="https://www.linkedin.com/in/sameera20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shaiksameera1233@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Sameera-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/sameera2008/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/sameera20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:shaiksameera1233@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/Sameera-20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://leetcode.com/u/sameera2008/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" /></a>
 
 ### 💡 *"Build. Learn. Solve. Repeat."*
 
@@ -281,4 +281,4 @@ Multiple categories, dynamic question loading, real-time scoring, and optimized 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A0DAD,100:0A66C2&amp;height=100&amp;section=footer" width="100%"/>
