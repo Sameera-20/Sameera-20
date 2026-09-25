@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A0DAD&height=200&section=header&text=Shaik%20Sameera&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%26%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=50&duration=4000&lines=Building+clean%2C+scalable+full-stack+apps;Exploring+Data+Engineering+%26+ML+pipelines;Prompt+Engineering+%2B+LLM-powered+systems;250%2B+DSA+problems+and+counting+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=50&duration=4000&lines=Building+clean%2C+scalable+full-stack+apps;Exploring+Data+Engineering+%26+ML;Prompt+Engineering+%2B+LLM-powered+systems;250%2B+DSA+problems+and+counting+%F0%9F%9A%80" />
 
 <br/>
 
@@ -38,15 +38,14 @@
 
 ## 👩‍💻 About Me
 
-I'm a **final-year CSE student** at **RVR & JC College of Engineering**, working across full-stack development, data engineering and AI/ML. I like turning messy data and rough problem statements into clean pipelines, working products, and (increasingly) well-designed prompts for LLM-powered systems.
+I'm a **final-year CSE student** at **RVR & JC College of Engineering**, building end-to-end software — from React frontends to Python data pipelines to AI-powered systems. I like problems that force me to think about both the data and the architecture.
 
 ```yaml
-role: Full-Stack Developer | Data Engineering & AI/ML Enthusiast
+role: Full-Stack Developer & Data/AI Enthusiast
 education: B.Tech CSE, RVR & JC College of Engineering (2023 – 2027)
 highlight: Global Rank 8750, TCS CodeVita Season 13 — top 8.75% of 100,000+
-interests: [Data Engineering, Machine Learning, Prompt Engineering, LLMs, Full-Stack Dev]
 currently_learning: [Data Engineering, Prompt Engineering, LLM Integration, System Design]
-open_to: [Full-Stack Developer, Data Engineer, AI/ML roles, SDE Internship/New Grad]
+open_to: [Full-Stack Developer, Data Engineer, AI/ML Roles, SDE Internship/New Grad]
 ```
 
 <details>
@@ -95,16 +94,6 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML roles, SDE Internship/New G
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-<p align="center"><b>Data, ML & AI</b></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-1a73e8?style=for-the-badge" />
-</p>
-
 <p align="center"><b>Web Development</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,mongodb,mysql" />
@@ -116,7 +105,7 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML roles, SDE Internship/New G
 </p>
 
 <details>
-<summary><b>🧠 Core CS Skills (click to expand)</b></summary>
+<summary><b>🧠 Core CS & AI/ML Skills (click to expand)</b></summary>
 <br/>
 
 | Area | Skills |
@@ -150,9 +139,9 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML roles, SDE Internship/New G
 <td width="50%" valign="top">
 
 ### 📜 Certifications
-- 🤖 **Prompt Engineering** — IBM Cognitive Class
-- 📊 **Data Engineering** — AICTE
-- 📈 **Data Analytics** — Tata Forage
+- 🤖 Prompt Engineering — IBM Cognitive Class
+- 📊 Data Engineering — AICTE
+- 📈 Data Analytics — Tata Forage
 - 🌐 Responsive Web Design — freeCodeCamp
 - 🧠 Human-Computer Interaction — NPTEL
 
@@ -169,33 +158,11 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML roles, SDE Internship/New G
 <td width="50%" valign="top">
 
 ### 🤖 GTMicro
-**AI-Assisted Microservice Identification**
+**AI-Assisted Microservice Architecture**
 
-NLP pipeline using BERT-based semantic embeddings and hierarchical clustering to identify candidate microservices from software requirements, extended with an LLM-based architecture-generation layer.
+NLP-based identification of candidate microservices from requirements using BERT-based semantic embeddings and hierarchical clustering, extended with an LLM-based architecture-generation layer.
 
-`Python` `BERT` `NLP` `Clustering` `LLMs`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Play Store Data Analysis
-**Exploratory Data Analysis & Data Cleaning**
-
-Cleaned and analyzed 10,000+ real-world app records to surface rating, install and pricing trends — handling missing/inconsistent data end-to-end.
-
-`Python` `Pandas` `Matplotlib`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍⚕️ AI Virtual Patient Simulation
-**Healthcare AI Concept**
-
-Models how a virtual patient may respond to drugs in clinical-trial scenarios, predicting outcomes and risk levels using AI agents and LLMs.
-
-`AI Agents` `LLMs` `Healthcare AI`
+`Python` `BERT` `NLP` `Clustering` `LLM`
 
 </td>
 <td width="50%" valign="top">
@@ -218,6 +185,28 @@ Google Docs–style platform — JWT auth, role-based access, live cursor tracki
 Real-time weather via OpenWeatherMap API, city/coordinate search, responsive UI, deployed with a decoupled architecture.
 
 `React.js` `Node.js` `Express.js` `OpenWeatherMap API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Play Store Data Analysis
+**Exploratory Data Analysis**
+
+Analyzed 10,000+ apps for rating, install & pricing trends; cleaned messy data and visualized insights.
+
+`Python` `Pandas` `Matplotlib`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍⚕️ AI Virtual Patient Simulation
+**Healthcare AI Concept**
+
+Models how a virtual patient may respond to drugs in clinical-trial scenarios, predicting outcomes and risk levels.
+
+`AI Agents` `LLMs` `Healthcare AI`
 
 </td>
 <td width="50%" valign="top">
@@ -255,9 +244,9 @@ Multiple categories, dynamic question loading, real-time scoring, and optimized 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Data%20Engineering-003366?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-1a73e8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/System%20Design-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Integration-purple?style=for-the-badge" />
 
 </div>
 
