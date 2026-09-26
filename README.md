@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,100:6A0DAD&amp;height=200&amp;section=header&amp;text=Shaik%20Sameera&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%26%20AI%2FML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render-theta.vercel.app/api?type=waving&amp;color=0:0A66C2,100:6A0DAD&amp;height=200&amp;section=header&amp;text=Shaik%20Sameera&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%26%20AI%2FML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=26&amp;pause=1000&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;duration=4000&amp;lines=Building+clean%2C+scalable+full-stack+apps;Exploring+Data+Engineering+%26+ML;Prompt+Engineering+%2B+LLM-powered+systems;250%2B+DSA+problems+and+counting+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&amp;size=26&amp;pause=1000&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;duration=4000&amp;lines=Building+clean%2C+scalable+full-stack+apps;Exploring+Data+Engineering+%26+ML;Prompt+Engineering+%2B+LLM-powered+systems;250%2B+DSA+problems+and+counting+%F0%9F%9A%80" />
 
 <br/>
 
@@ -66,14 +66,14 @@ open_to: [Full-Stack Developer, Data Engineer, AI/ML Roles, SDE Internship/New G
 
 <p align="center">
 <a href="https://leetcode.com/u/sameera2008/">
-<img src="https://leetcode-stats-card.vercel.app/?username=sameera2008&amp;theme=dark&amp;border_radius=10" />
+<img src="https://leetcard.jacoblin.cool/sameera2008?theme=dark" />
 </a>
 </p>
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera-20&amp;theme=react&amp;border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Sameera-20&amp;theme=react&amp;border_radius=10" />
 </p>
 
 <p align="center">
@@ -281,4 +281,4 @@ Multiple categories, dynamic question loading, real-time scoring, and optimized 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A0DAD,100:0A66C2&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render-theta.vercel.app/api?type=waving&amp;color=0:6A0DAD,100:0A66C2&amp;height=100&amp;section=footer" width="100%"/>
