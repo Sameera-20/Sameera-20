@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render-theta.vercel.app/api?type=waving&amp;color=0:0A66C2,100:6A0DAD&amp;height=200&amp;section=header&amp;text=Shaik%20Sameera&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%26%20AI%2FML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render-theta.vercel.app/api?type=waving&amp;color=0:0A66C2,100:6A0DAD&amp;height=180&amp;section=header&amp;text=Shaik%20Sameera&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=40" width="100%"/>
+
+### Full-Stack Developer | Data Engineering &amp; AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com/?font=Righteous&amp;size=26&amp;pause=1000&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;duration=4000&amp;lines=Building+clean%2C+scalable+full-stack+apps;Exploring+Data+Engineering+%26+ML;Prompt+Engineering+%2B+LLM-powered+systems;250%2B+DSA+problems+and+counting+%F0%9F%9A%80" />
 
